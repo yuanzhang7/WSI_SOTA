@@ -44,4 +44,4 @@ The state of art performance in WSI based on deep learning
 
 
 ### Contributors
-Hanhuan Cui，Jingjing Pei
+Yuan Zhang，Hanhuan Cui，Jingjing Pei
