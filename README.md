@@ -1,5 +1,6 @@
 # WSI_SOTA
-The state of art performance in WSI based on deep learning
+The state-of-the-art performance on WSI using deep learning.Here we divide the wsi tasks into three parts:classification,segmentation and detection.
+
 ## Classification
 | Dataset           | WSI number | Dataset link                                     | Code link                                              | Paper                                                                                                       | Year | Method                             | Accuracy(slide) | F1          | AUC(slide) | Precision   | Recall     |
 |-------------------|------------|--------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------|------------------------------------|-----------------|-------------|------------|-------------|------------|
